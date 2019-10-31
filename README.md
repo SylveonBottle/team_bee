@@ -3,7 +3,7 @@
 
 -------------
 ## Installation & Use
-Download bee_spam.cfg and put /tf/cfg folder.
+Download bee_spam.cfg, and place the file into your cfg folder.
 
 In-game, open console and run `exec bee_spam`. 
 During pre-game and post-game, press `=` to activate the script. 
