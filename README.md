@@ -15,7 +15,7 @@ Do not run `exec bee_spam` multiple times, as it could cause multiple instances 
 -------------
 ## Information 
 This script abuses the `tournament_teamname` that valve has left in the game. 
-This command changes the your team's name, and works in official casual servers. However, it has no effect to the game, and your team name is not displayed anywhere in-game during a match.
+This command changes your team's name, and works in official casual servers. However, it has no effect to the game, and your team name is not displayed anywhere in-game during a match.
 Running this command during a game or in the main menu will result in an `invalid command` response. 
 However, during pre-game and post-game, this script will change the tournament name.
 This command has no delay, and can theoretically be spammed thousands of times per second, ~~which may be a possible method of crashing user.~~ This was reported fixed by valve, however it may still result in slowdowns.
