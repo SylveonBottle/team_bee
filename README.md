@@ -18,7 +18,7 @@ This script abuses the `tournament_teamname` that valve has left in the game.
 This command changes your team's name, and works in official casual servers. However, it has no effect to the game, and your team name is not displayed anywhere in-game during a match.
 Running this command during a game or in the main menu will result in an `invalid command` response. 
 However, during pre-game and post-game, this script will change the tournament name.
-This command has no delay, and can theoretically be spammed thousands of times per second, ~~which may be a possible method of crashing user.~~ This was reported fixed by valve, however it may still result in slowdowns.
+~~This command has no delay, and can theoretically be spammed thousands of times per second, which may be a possible method of crashing user. This was reported fixed by valve, however it may still result in slowdowns.~~ Valve has added a "feature" to kick players who spam commands too fast. This was added to stop users from crashing servers, but also limits this script's speed. Also, if you run left and right really really really fast, it can kick you from the game. Nice fix, valve.
 
 **Pre-game** is defined as the first begining of a map, when players are still joining. You can recognize it by the 60 second countdown during the start of the game
 
