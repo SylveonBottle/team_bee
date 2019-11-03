@@ -1,3 +1,5 @@
+![example](https://i.imgur.com/MdChfvp.png)
+
 # TF2: The Bee Movie Teamname Spammer
 **The entire bee movie script, in teamname spam form.**
 
